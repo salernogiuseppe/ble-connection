@@ -1,7 +1,7 @@
 {
   "name": "ble-connection",
   "version": "1.0.0",
-  "description": "Esempio test",
+  "description": "",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
